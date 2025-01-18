@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr ""
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr ""
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr ""
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr ""
+
+msgid "ckdg_fi_new_folder_location"
+msgstr ""
+
+msgid "ckdg_fi_new_folder_name"
+msgstr ""
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr ""
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr ""
+
+msgid "ckdg_fi_properties_read_only"
+msgstr ""
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr ""
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr ""
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr ""
+
+msgid "ckdg_ti_change_folder"
+msgstr ""
+
+msgid "ckdg_ti_move_to_folder"
+msgstr ""
+
+msgid "ckdg_ti_open_file"
+msgstr ""
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr ""
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr ""
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr ""
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr ""
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr ""
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr ""
+
+msgid "ckdg_va_properties_size_kb"
+msgstr ""
+
+msgid "ckdg_va_property_unknown"
+msgstr ""
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr ""
+
+msgid "docm_bd_deleting_files"
+msgstr ""
+
+msgid "docm_bd_moving_files"
+msgstr ""
+
+msgid "docm_bd_opening_files"
+msgstr ""
+
+msgid "docm_bd_saving_files"
+msgstr ""
+
+msgid "docm_nc_replace_file"
+msgstr ""
+
+msgid "docm_nc_replace_multiple"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_document"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_file"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_image"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_note"
+msgstr ""
+
+msgid "docm_nc_save_before_closing_video"
+msgstr ""
+
+msgid "docm_nw_deleting_file"
+msgstr ""
+
+msgid "docm_nw_deleting_files"
+msgstr ""
+
+msgid "docm_nw_moving_files"
+msgstr ""
+
+msgid "docm_nw_opening_file"
+msgstr ""
+
+msgid "docm_nw_opening_files"
+msgstr ""
+
+msgid "docm_nw_saving_file"
+msgstr ""
+
+msgid "docm_nw_saving_files"
+msgstr ""
+
+msgid "docm_pb_stopping"
+msgstr ""
+
+msgid "hfil_ib_mmc_not_present"
+msgstr ""
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr ""
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr ""
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr ""
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr ""
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr ""
+
+msgid "sfil_fi_save_objects_items"
+msgstr ""
+
+msgid "sfil_fi_save_objects_location"
+msgstr ""
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr ""
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr ""
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr ""
+
+msgid "sfil_ib_cannot_move_file"
+msgstr ""
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr ""
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr ""
+
+msgid "sfil_ib_file_already_saved"
+msgstr ""
+
+msgid "sfil_ib_file_not_found"
+msgstr ""
+
+msgid "sfil_ib_folder_not_found"
+msgstr ""
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr ""
+
+msgid "sfil_ib_items_not_found"
+msgstr ""
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr ""
+
+msgid "sfil_ib_readonly_location"
+msgstr ""
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr ""
+
+msgid "sfil_ib_save_file_first"
+msgstr ""
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr ""
+
+msgid "sfil_ib_select_file"
+msgstr ""
+
+msgid "sfil_li_folder_camera"
+msgstr ""
+
+msgid "sfil_li_folder_documents"
+msgstr ""
+
+msgid "sfil_li_folder_images"
+msgstr ""
+
+msgid "sfil_li_folder_sound_clips"
+msgstr ""
+
+msgid "sfil_li_folder_user_guides"
+msgstr ""
+
+msgid "sfil_li_folder_video_clips"
+msgstr ""
+
+msgid "sfil_li_memorycard_removable"
+msgstr ""
+
+msgid "sfil_li_shared_media"
+msgstr ""
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr ""
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr ""
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr ""
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr ""
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr ""
+
+msgid "sfil_li_size_kb"
+msgstr ""
+
+msgid "sfil_nc_delete_open_file"
+msgstr ""
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr ""
+
+msgid "sfil_nw_moving_file"
+msgstr ""
+
+msgid "sfil_ti_file_details"
+msgstr ""
+
+msgid "sfil_ti_save_file"
+msgstr ""
+
+msgid "sfil_ti_save_objects_files"
+msgstr ""
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr ""
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr ""
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] ""
+msgstr[1] ""
